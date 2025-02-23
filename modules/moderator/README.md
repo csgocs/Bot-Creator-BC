@@ -7,5 +7,5 @@
  - kick
  - ban
 
- (install python and disnake)
- (pip install disnake)
+(Required library for this module: **disnake**.)
+- (pip install disnake)

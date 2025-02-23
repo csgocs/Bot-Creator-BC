@@ -1,7 +1,7 @@
 [
     {
         "name": "moderator",
-        "description": "mute, kick, ban...",
+        "description": "mute, unmute, kick, ban",
         "download_url": "https://raw.githubusercontent.com/csgocs/Bot-Creator-BC/main/modules/moderator/moderator.py",
         "readme_url": "https://github.com/csgocs/Bot-Creator-BC/blob/main/modules/moderator/README.md"
     }
