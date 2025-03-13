@@ -1,14 +1,26 @@
 [
     {
         "name": "moderator",
-        "description": "mute, unmute, kick, ban",
+        "description": "all version",
         "download_url": "https://raw.githubusercontent.com/csgocs/Bot-Creator-BC/main/modules/moderator/moderator.py",
         "readme_url": "https://github.com/csgocs/Bot-Creator-BC/blob/main/modules/moderator/README.md"
     },
     {
         "name": "help",
-        "description": "help command",
+        "description": "all version",
         "download_url": "https://raw.githubusercontent.com/csgocs/Bot-Creator-BC/main/modules/help/help.py",
         "readme_url": "https://github.com/csgocs/Bot-Creator-BC/blob/main/modules/help/README.md"
+    },
+    {
+        "name": "settings",
+        "description": "partially all",
+        "download_url": "https://raw.githubusercontent.com/csgocs/Bot-Creator-BC/main/modules/settings/settings.py",
+        "readme_url": "https://github.com/csgocs/Bot-Creator-BC/blob/main/modules/settings/README.md"
+    },
+    {
+        "name": "welcome",
+        "description": "only 2.1",
+        "download_url": "https://raw.githubusercontent.com/csgocs/Bot-Creator-BC/main/modules/welcome/welcome.py",
+        "readme_url": "https://github.com/csgocs/Bot-Creator-BC/blob/main/modules/welcome/README.md"
     }
 ]
